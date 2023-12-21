@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Solidity, Fullstack web development.
 - 📫 my insta handle -- https://www.instagram.com/isellkids4cocaine/ <br>
-linkedin -
+
 
 
 <!---
